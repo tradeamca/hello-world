@@ -1,2 +1,3 @@
 # hello-world
-learn about github
+Hello 
+I am here to learn about what github is all about. Lets see how I figure this out 
